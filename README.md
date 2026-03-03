@@ -4098,3 +4098,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 Изменение 1 в branch1
 Изменение 2 в branch1
 Изменение 3 в branch1
+Изменение 4 в branch1
